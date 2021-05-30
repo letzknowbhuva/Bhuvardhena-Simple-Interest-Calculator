@@ -1,0 +1,41 @@
+body {
+background-color:#866560;
+}
+h1 {
+	font-size:52;
+	color: #fff;
+	font-family: sans-serif;
+}
+.inner {
+	width: 20%;
+	height: auto;
+	font-size:32;
+	font-family:sans-serif;
+	align-items: center;
+	margin: 0px auto;
+	padding: 5px;
+	padding-top: 10px;
+	padding-left:  10%;
+	border: 2px solid red;
+	border-radius: 25px;
+
+}
+p {
+	background-color: white;
+	color:black;
+}
+button {
+	font-size: 20;
+}
+
+.inner input {
+display: flex;
+justify-content: space-around;
+align-items: center;}
+
+.copyright {
+	background-color: #866560;
+	text-align: center;
+	color: #fff;
+	font-size: 20px;
+}
